@@ -12,5 +12,5 @@ Uma calculadora funcional desenvolvida para rodar perfeitamente em múltiplos am
   - Estrutura de repetição `do-while` e controle de fluxo com `switch`.
   - Manipulação de buffer de teclado para entrada de dados limpa.
 
- ### 📋 [**Manipulação de Arrays e Lógica**](./Exercícios-Arrays)
+ ### 📋 [**Manipulação de Arrays e Lógica**](./Exercicios-Arrays)
 * Exercícios de percorrimento de vetores e matrizes para cálculos estatísticos e filtragem de dados.
