@@ -15,7 +15,7 @@ O principal destaque deste projeto é o uso de **diretivas de pré-processamento
 
 ### 🚀 Como Compilar e Rodar
 
-**No Linux (Manjaro/Debian):**
+**No Linux:**
 1. Abra o terminal na pasta do ficheiro.
 2. Compile com: `gcc Calculadora-C.c -o calculadora`
 3. Execute com: `./calculadora`
