@@ -1,22 +1,18 @@
-# 📋 Exercícios de Manipulação de Arrays em C
+# 📊 Manipulação de Arrays e Matrizes em C
 
-Esta pasta contém uma coleção de exercícios focados no estudo de vetores (arrays) unidimensionais e bidimensionais (matrizes) em C.
+Esta pasta contém uma coleção de exercícios práticos focados no estudo de estruturas de dados estáticas em C, abrangendo desde vetores unidimensionais até matrizes bidimensionais. O objetivo é consolidar a lógica de acesso direto à memória e a manipulação eficiente de índices.
+
+---
 
 ### 🧠 Conceitos Praticados
 
-Os exercícios abordam operações essenciais de manipulação de memória e dados:
+Os algoritmos implementados exploram operações fundamentais para o processamento de dados em baixo nível:
 
-* **Percorrimento de Vetores:** Uso de laços `for` para entrada e saída de dados.
-* **Cálculos Estatísticos:** Implementação de algoritmos para encontrar a média, soma e valores máximos/mínimos num conjunto de dados.
-* **Busca e Filtro:** Identificação de elementos específicos (como números pares ou ímpares) dentro de um array.
-* **Ordenação Simples:** Primeiros passos com algoritmos de organização de dados.
-
-
-
-### 📂 Estrutura dos Arquivos
-* `soma_vetor.c`: Algoritmo que calcula a soma de N elementos.
-* `media_notas.c`: Programa que utiliza arrays para armazenar e calcular médias escolares.
-* `maior_menor.c`: Identifica os extremos num vetor de inteiros.
+* **Percorrimento e Acesso**: Uso de laços `for` simples para vetores e laços aninhados para percorrer as coordenadas **L** (linhas) e **C** (colunas) em matrizes.
+* **Cálculos Aritméticos e Estatísticos**: Implementação de somatórios, médias aritméticas e identificação de valores extremos (máximos e mínimos).
+* **Busca e Localização**: Algoritmos de busca linear para encontrar valores específicos inseridos via teclado, utilizando sinalizadores (flags) como `pos = -1` para tratar casos de não encontrado.
+* **Redução Dimensional**: Processamento seletivo para extrair a soma de linhas ou colunas específicas, transformando dados matriciais em vetores de resultados.
 
 ---
+
 *Este repositório faz parte dos meus estudos na graduação em Ciência e Tecnologia.*
